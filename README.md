@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amynuxe
+- 👋 Hi, I’m @jvictof13
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on software development
-- 📫 How to reach me amyfontes13@outlook.com
-- 😄 Pronouns: She, Her, Hers
+- 📫 How to reach me jvictof13@outlook.com
+- 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: Tomatoes are vegetables not fruits 
